@@ -30,7 +30,7 @@ Audit replicates form one coordinate-wise region. A clause is certified only whe
 
 ## Session error across the design grid
 
-Pointwise intervals lose session control when the inspection order favors narrow margins. The certificate and the Bonferroni band stay at or below the nominal level on every design below. The dashed line is that level, 0.10.
+Pointwise intervals lose session control when the inspection order favors narrow margins. The certificate and the Bonferroni band stay at or below the nominal level on every design below. The dashed line is that level, 0.10. A design in which every unit has the same composition is omitted: every interval collapses to the point, and every method has session error zero.
 
 <p align="center">
   <img src="docs/figures/fig_results.png" alt="Session error of pointwise intervals, Bonferroni bands, and the certificate across fourteen survey designs" width="96%">
