@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.Rhistory
+results/
+data/
+EXPERIMENT_PROTOCOL.md
